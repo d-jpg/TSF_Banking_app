@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f0f9453-b1b4-479d-a48a-674487458c2c" name="Default Changelist" comment="Install Commit" />
+    <list default="true" id="3f0f9453-b1b4-479d-a48a-674487458c2c" name="Default Changelist" comment="Install Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624265878653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Install Commit">
+      <created>1624276569021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624276569021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +168,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1624268901570" />
+    <state x="821" y="452" key="Github.ShareDialog" timestamp="1624276698338">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="821" y="452" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1624276698338" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1624210898293">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -179,9 +192,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1624268935563" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1624269708608">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1624276591762">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1624269708608" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1624276591762" />
   </component>
 </project>
