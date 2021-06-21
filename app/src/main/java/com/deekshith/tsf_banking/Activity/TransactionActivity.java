@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking.Activity;
+package com.deekshith.tsf_banking.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -9,10 +9,10 @@ import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
 
-import com.nikhil.tsf_banking.Adapter.TransacAdapter;
-import com.nikhil.tsf_banking.R;
-import com.nikhil.tsf_banking.db.TransacDatabase;
-import com.nikhil.tsf_banking.db.TransacEntity;
+import com.deekshith.tsf_banking.Adapter.TransacAdapter;
+import com.deekshith.tsf_banking.R;
+import com.deekshith.tsf_banking.db.TransacDatabase;
+import com.deekshith.tsf_banking.db.TransacEntity;
 
 import java.util.List;
 

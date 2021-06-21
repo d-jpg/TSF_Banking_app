@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking.Adapter;
+package com.deekshith.tsf_banking.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,9 +11,9 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.nikhil.tsf_banking.Activity.CustomerActivity;
-import com.nikhil.tsf_banking.db.DbEntity;
-import com.nikhil.tsf_banking.R;
+import com.deekshith.tsf_banking.Activity.CustomerActivity;
+import com.deekshith.tsf_banking.db.DbEntity;
+import com.deekshith.tsf_banking.R;
 
 import java.util.List;
 

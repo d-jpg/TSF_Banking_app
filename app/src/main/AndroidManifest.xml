@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nikhil.tsf_banking">
+    package="com.deekshith.tsf_banking">
 
     <application
         android:allowBackup="true"
@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.nikhil.tsf_banking.Activity.TransactionActivity"></activity>
-        <activity android:name="com.nikhil.tsf_banking.Activity.PaymentActivity" />
-        <activity android:name="com.nikhil.tsf_banking.Activity.InsertActivity" />
-        <activity android:name="com.nikhil.tsf_banking.Activity.CustomerActivity" />
-        <activity android:name="com.nikhil.tsf_banking.Activity.ListActivity" />
-        <activity android:name="com.nikhil.tsf_banking.Activity.MainActivity">
+        <activity android:name="com.deekshith.tsf_banking.Activity.TransactionActivity"></activity>
+        <activity android:name="com.deekshith.tsf_banking.Activity.PaymentActivity" />
+        <activity android:name="com.deekshith.tsf_banking.Activity.InsertActivity" />
+        <activity android:name="com.deekshith.tsf_banking.Activity.CustomerActivity" />
+        <activity android:name="com.deekshith.tsf_banking.Activity.ListActivity" />
+        <activity android:name="com.deekshith.tsf_banking.Activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -56,7 +56,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="5dp"
-        android:text="designed by Kotha Nikhil Reddy"
+        android:text="designed by Yeruva Deekshith Reddy"
         android:textColor="#171614"
         android:textSize="20sp" />
 

@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking.util;
+package com.deekshith.tsf_banking.util;
 
 public class Customer {
     public String name,email;

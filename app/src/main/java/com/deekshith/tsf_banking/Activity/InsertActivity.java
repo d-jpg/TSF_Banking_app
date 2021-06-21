@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking.Activity;
+package com.deekshith.tsf_banking.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
@@ -11,9 +11,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.nikhil.tsf_banking.R;
-import com.nikhil.tsf_banking.db.DbDatabase;
-import com.nikhil.tsf_banking.db.DbEntity;
+import com.deekshith.tsf_banking.R;
+import com.deekshith.tsf_banking.db.DbDatabase;
+import com.deekshith.tsf_banking.db.DbEntity;
 
 public class InsertActivity extends AppCompatActivity {
 

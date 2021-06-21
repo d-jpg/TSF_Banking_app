@@ -1,4 +1,4 @@
-package com.nikhil.tsf_banking.db;
+package com.deekshith.tsf_banking.db;
 
 import androidx.room.Dao;
 import androidx.room.Insert;
