@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_arrow.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-xhdpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_transac_item.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/transac_item.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/anim_slide_in_left.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_payment.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_payment.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_list.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/anim_slide_in_right.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_recycler_item.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/recycler_item.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-v24_transactions.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-v24/transactions.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable_modern_bank_building.jpg.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable/modern_bank_building.jpg"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-v24_profile_img.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-v24/profile_img.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_insert.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_insert.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-xxhdpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-v24_logo.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-v24/logo.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-v24_users.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-v24/users.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_arrow.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-mdpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_customer.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_customer.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable_sender_btn.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable/sender_btn.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_arrow.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-hdpi/ic_arrow.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_transaction.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_transaction.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_arrow.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/drawable-anydpi/ic_arrow.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/deekshith/AndroidStudioProjects/TSF_Banking_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
